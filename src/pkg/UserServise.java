@@ -105,9 +105,10 @@ public class UserServise {
 
 		if (users.size() > 0) {
 			return users.get(0);
-		} else
+		} 
+		else {
 			return null;
-
+		}
 	}
 
 //	public static (String username,String password) {
@@ -230,7 +231,10 @@ public class UserServise {
 		if (users.size() > 0) {
 			return users.get(0);
 		} else
+		{
 			return null;
+		}
+			
 
 	}
 
