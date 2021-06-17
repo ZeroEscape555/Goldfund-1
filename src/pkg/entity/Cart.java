@@ -2,12 +2,12 @@ package pkg.entity;
 
 import java.math.BigDecimal;
 
-/**
- * 购物车条目的实体类
- * 
- */
+
 public class Cart {
-	
+	/**
+	 * 购物车条目的实体类
+	 * 
+	 */
 	private int foodid;
 	private String foodname;
 	private String imgp;

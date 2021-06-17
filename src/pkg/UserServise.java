@@ -15,9 +15,6 @@ import org.apache.commons.dbutils.DbUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
-
-import com.mysql.fabric.xmlrpc.base.Data;
-
 import pkg.entity.Cart;
 import pkg.entity.Foods;
 import pkg.entity.TUser;
